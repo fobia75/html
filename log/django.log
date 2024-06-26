@@ -1,0 +1,76 @@
+Watching for file changes with StatReloader
+Not Found: /
+"GET / HTTP/1.1" 404 2167
+Not Found: /docs
+"GET /docs HTTP/1.1" 404 2197
+"GET /game/orel_rechka/ HTTP/1.1" 200 10
+"GET /game/orel_rechka/ HTTP/1.1" 200 8
+"GET /game/orel_rechka/ HTTP/1.1" 200 10
+"GET /game/orel_rechka/ HTTP/1.1" 200 10
+"GET /game/orel_rechka/ HTTP/1.1" 200 10
+"GET /game/orel_rechka/ HTTP/1.1" 200 8
+"GET /game/orel_rechka/ HTTP/1.1" 200 10
+"GET /game/sto HTTP/1.1" 301 0
+"GET /game/sto/ HTTP/1.1" 200 2
+"GET /game/sto/ HTTP/1.1" 200 2
+"GET /game/sto/ HTTP/1.1" 200 2
+"GET /game/sto/ HTTP/1.1" 200 2
+"GET /game/sto/ HTTP/1.1" 200 2
+"GET /game/sto/ HTTP/1.1" 200 2
+"GET /game/sto/ HTTP/1.1" 200 2
+"GET /game/sto/ HTTP/1.1" 200 2
+"GET /game/sto/ HTTP/1.1" 200 2
+"GET /game/sto/ HTTP/1.1" 200 2
+"GET /game/sto/ HTTP/1.1" 200 2
+"GET /game/sto/ HTTP/1.1" 200 2
+"GET /game/sto/ HTTP/1.1" 200 2
+"GET /game/sto/ HTTP/1.1" 200 2
+"GET /game/sto/ HTTP/1.1" 200 2
+"GET /game/sto/ HTTP/1.1" 200 2
+"GET /game/sto/ HTTP/1.1" 200 2
+"GET /game/sto/ HTTP/1.1" 200 2
+"GET /game/sto/ HTTP/1.1" 200 2
+Watching for file changes with StatReloader
+Not Found: /
+"GET / HTTP/1.1" 404 2167
+Not Found: /docs
+"GET /docs HTTP/1.1" 404 2197
+"GET /game/orel_rechka/ HTTP/1.1" 200 10
+Watching for file changes with StatReloader
+C:\Users\qwerty\Desktop\git_edukechn\dgango\myproject\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\qwerty\Desktop\git_edukechn\dgango\myproject\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\qwerty\Desktop\git_edukechn\dgango\myproject\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\qwerty\Desktop\git_edukechn\dgango\myproject\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\qwerty\Desktop\git_edukechn\dgango\myproject\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\qwerty\Desktop\git_edukechn\dgango\myproject\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\qwerty\Desktop\git_edukechn\dgango\myproject\myapp\__init__.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\qwerty\Desktop\git_edukechn\dgango\myproject\myapp\__init__.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Not Found: /
+"GET / HTTP/1.1" 404 2167
+Not Found: /docs
+"GET /docs HTTP/1.1" 404 2197
+"GET /game/orel_rechka/ HTTP/1.1" 200 8
+Watching for file changes with StatReloader
+Not Found: /
+"GET / HTTP/1.1" 404 2167
+Not Found: /docs
+"GET /docs HTTP/1.1" 404 2197
+"GET /game/orel_rechka/ HTTP/1.1" 200 8
+"GET /game/ HTTP/1.1" 200 137
+Watching for file changes with StatReloader
+Not Found: /
+"GET / HTTP/1.1" 404 2167
+"GET /game/ HTTP/1.1" 200 266
+"GET /game/main HTTP/1.1" 200 318
